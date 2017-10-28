@@ -1,0 +1,14 @@
+/Users/AirNp/Desktop/MyApp/XamarinProject/aspmvc/aspmvc/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/AirNp/Desktop/MyApp/XamarinProject/aspmvc/aspmvc/bin/aspmvc.dll.mdb
+/Users/AirNp/Desktop/MyApp/XamarinProject/aspmvc/aspmvc/bin/aspmvc.dll
+/Users/AirNp/Desktop/MyApp/XamarinProject/aspmvc/aspmvc/obj/Debug/aspmvc.dll
+/Users/AirNp/Desktop/MyApp/XamarinProject/aspmvc/aspmvc/obj/Debug/aspmvc.dll.mdb
+/Users/AirNp/Desktop/MyApp/XamarinProject/aspmvc/aspmvc/bin/System.Web.Razor.dll
+/Users/AirNp/Desktop/MyApp/XamarinProject/aspmvc/aspmvc/bin/Microsoft.Web.Infrastructure.dll
+/Users/AirNp/Desktop/MyApp/XamarinProject/aspmvc/aspmvc/bin/System.Web.Helpers.dll
+/Users/AirNp/Desktop/MyApp/XamarinProject/aspmvc/aspmvc/bin/System.Web.WebPages.Deployment.dll
+/Users/AirNp/Desktop/MyApp/XamarinProject/aspmvc/aspmvc/bin/System.Web.WebPages.dll
+/Users/AirNp/Desktop/MyApp/XamarinProject/aspmvc/aspmvc/bin/System.Web.WebPages.Razor.dll
+/Users/AirNp/Desktop/MyApp/XamarinProject/aspmvc/aspmvc/bin/System.Web.Mvc.dll
+/Users/AirNp/Desktop/MyApp/XamarinProject/aspmvc/aspmvc/bin/aspmvc.pdb
+/Users/AirNp/Desktop/MyApp/XamarinProject/aspmvc/aspmvc/obj/Debug/aspmvc.pdb

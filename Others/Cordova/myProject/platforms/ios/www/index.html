@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Notifications</title>
+ <script type=”text/javascript” charset=”utf-8” src=”phonegap.js”></script>
+ <script type=”text/javascript” charset=”utf-8”>
+ function onLoad() {
+   document.addEventListener(“deviceready”, onDeviceReady, false);
+ }
+ function onDeviceReady() {
+ }
+ function showAlert() {
+   navigator.notification.alert(‘Game Over!’, alertCallback, ‘Alert’, ‘Done’);
+ }
+ function alertCallback(){
+   //do something... like calculate final score
+ }
+ function onConfirm(button) {
+   alert(‘You selected button ‘ + button);
+ }
+ function showConfirm() {
+   navigator.notification.confirm(‘Game Over!’, onConfirm, ‘Restart, Exit’);
+ }
+ function playBeep() {
+   navigator.notification.beep(2);
+ }
+  function vibrate() {
+   navigator.notification.vibrate(4000);
+ }
+ </script>
+</head>
+<body onload=”onLoad()”>
+ <p><a href=”#” onclick=”showAlert(); return false;”>Alert</a></p>
+ <p><a href=”#” onclick=”showConfirm(); return false;”>Confirm</a></p>
+ <p><a href=”#” onclick=”playBeep(); return false;”>Beep</a></p>
+ <p><a href=”#” onclick=”vibrate(); return false;”>Vibrate</a></p>
+</body>
+</html>

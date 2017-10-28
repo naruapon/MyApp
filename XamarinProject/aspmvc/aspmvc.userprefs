@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8F3709FD-E85D-4694-965F-0157F9538E8E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="aspmvc/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="aspmvc/Controllers/HomeController.cs" Line="12" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.aspmvc PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

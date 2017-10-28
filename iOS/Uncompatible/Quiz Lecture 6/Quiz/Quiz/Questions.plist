@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<dict>
+			<key>Question</key>
+			<string>Who is the current world champion?</string>
+			<key>CorrectAnswer</key>
+			<string>Germany</string>
+			<key>Answers</key>
+			<array>
+				<string>England</string>
+				<string>Brazil</string>
+				<string>Germany</string>
+				<string>Japan</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>A famous soccer player is called Cristiano...?</string>
+			<key>CorrectAnswer</key>
+			<string>Ronaldo</string>
+			<key>Answers</key>
+			<array>
+				<string>Messi</string>
+				<string>Ronaldo</string>
+				<string>Zidane</string>
+				<string>Müller</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The famous stadium of the Liverpool FC is called...?</string>
+			<key>CorrectAnswer</key>
+			<string>Anfield Road</string>
+			<key>Answers</key>
+			<array>
+				<string>Allianz Arena</string>
+				<string>Wembley</string>
+				<string>Anfield Road</string>
+				<string>World Stadium</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Which national team does superstar Zlatan Ibrahimovic play for?</string>
+			<key>CorrectAnswer</key>
+			<string>Sweden</string>
+			<key>Answers</key>
+			<array>
+				<string>Germany</string>
+				<string>France</string>
+				<string>Bosnia</string>
+				<string>Sweden</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the famous duel between Real Madrid and FC Barcelona called?</string>
+			<key>CorrectAnswer</key>
+			<string>El Clasico</string>
+			<key>Answers</key>
+			<array>
+				<string>Showdown</string>
+				<string>El Clasico</string>
+				<string>El Nino</string>
+				<string>Classic</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

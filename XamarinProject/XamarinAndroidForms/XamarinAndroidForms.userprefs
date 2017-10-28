@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D4D6F9E5-5F51-4AF2-A6C1-9CD556CE50AD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinAndroidForms/XamarinAndroidFormsPage.xaml">
+    <Files>
+      <File FileName="XamarinAndroidForms/XamarinAndroidFormsPage.xaml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamarinAndroidForms.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MultiItemStartupConfigurations />
+</Properties>

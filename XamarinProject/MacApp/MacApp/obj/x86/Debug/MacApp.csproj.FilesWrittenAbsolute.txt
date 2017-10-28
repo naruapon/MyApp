@@ -1,0 +1,13 @@
+/Users/AirNp/Desktop/MyApp/XamarinProject/MacApp/MacApp/obj/x86/Debug/Xamarin.Mac,Version=v2.0.AssemblyAttribute.cs
+/Users/AirNp/Desktop/MyApp/XamarinProject/MacApp/MacApp/obj/x86/Debug/actool/partial-info.plist
+/Users/AirNp/Desktop/MyApp/XamarinProject/MacApp/MacApp/obj/x86/Debug/actool/asset-manifest.plist
+/Users/AirNp/Desktop/MyApp/XamarinProject/MacApp/MacApp/obj/x86/Debug/actool/bundle/AppIcon.icns
+/Users/AirNp/Desktop/MyApp/XamarinProject/MacApp/MacApp/obj/x86/Debug/ibtool-manifests/Main.storyboardc
+/Users/AirNp/Desktop/MyApp/XamarinProject/MacApp/MacApp/obj/x86/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/AirNp/Desktop/MyApp/XamarinProject/MacApp/MacApp/obj/x86/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/AirNp/Desktop/MyApp/XamarinProject/MacApp/MacApp/obj/x86/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/AirNp/Desktop/MyApp/XamarinProject/MacApp/MacApp/obj/x86/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/AirNp/Desktop/MyApp/XamarinProject/MacApp/MacApp/bin/Debug/MacApp.pdb
+/Users/AirNp/Desktop/MyApp/XamarinProject/MacApp/MacApp/bin/Debug/MacApp.exe
+/Users/AirNp/Desktop/MyApp/XamarinProject/MacApp/MacApp/obj/x86/Debug/MacApp.exe
+/Users/AirNp/Desktop/MyApp/XamarinProject/MacApp/MacApp/obj/x86/Debug/MacApp.pdb
